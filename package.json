@@ -1,0 +1,20 @@
+{
+  "name": "dos-in-web3",
+  "version": "1.0.0",
+  "description": "Understanding denial of service attack in Web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammic297/dos-in-web3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammic297/dos-in-web3/issues"
+  },
+  "homepage": "https://github.com/sammic297/dos-in-web3#readme"
+}
