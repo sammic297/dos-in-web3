@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/dos-in-web3/issues"
   },
-  "homepage": "https://github.com/sammic297/dos-in-web3#readme"
+  "homepage": "https://github.com/sammic297/dos-in-web3#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }
